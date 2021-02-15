@@ -3,6 +3,7 @@
 A script and minimal implementation of the smartthings API allowing you to
 toggle lights and switches on and off from the command line
 
+Get [python-smartthings](https://github.com/darrenpmeyer/python-smartthings).
 Make sure that the `smartthings` directory is in your `PYTHONPATH`, and that
 the `requests` module is installed for your Python
 
